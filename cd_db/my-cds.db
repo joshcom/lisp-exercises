@@ -1,0 +1,2 @@
+
+((:|TITLE| "No Fences" :|ARTIST| "Garth Brooks" :|RATING| 1. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "Chocolate and Cheese" :|ARTIST| "Ween" :|RATING| 7. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "The Mollusk" :|ARTIST| "Ween" :|RATING| 8. :|RIPPED| |COMMON-LISP|::|T|) (:|TITLE| "Wish You Were Here" :|ARTIST| "Pink Floyd" :|RATING| 7. :|RIPPED| |COMMON-LISP|::|NIL|)) 
